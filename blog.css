@@ -1,5 +1,12 @@
 /* stylelint-disable selector-list-comma-newline-after */
 
+/* add mb-md-6 to styling */
+@media (min-width:768px) {
+  .mb-md-6 {
+    margin-bottom: 4rem !important;
+  }
+}
+
 .blog-header {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
